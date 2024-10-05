@@ -52,7 +52,7 @@ body {
 .gallery-item img {
   display: block;
   width: 360px;
-  height: 300px;
+  height: auto;
 }
 
 .input-text {
